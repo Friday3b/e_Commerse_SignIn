@@ -1,6 +1,6 @@
 
 
-// kodun domdan sonra ishlemesi ucun ready yazilib
+// kodun domdan sonra ishlemesi ucun ready den istifade edirik 
 $(document).ready ( () => {
 
     $("#btn").click( () => {
